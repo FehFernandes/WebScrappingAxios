@@ -36,7 +36,7 @@ TypeScript Types.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/WebScrappingAxios.git
+git clone https://github.com/FehFernandes/WebScrappingHacker-News.git
 ```
 
 2. Install dependencies:
