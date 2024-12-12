@@ -1,9 +1,50 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# WebScrappingAxios
 
-## Getting Started
+A study project inspired by Hacker News layout, focused on learning web scraping and modern web development.
 
-First, run the development server:
+## 📋 About The Project
 
+This is an educational project developed for study purposes, using Hacker News layout as inspiration. **Important: This project has no official affiliation with Hacker News and was developed solely for learning and practicing modern web technologies.**
+
+The project serves as a practical exercise for:
+- Implementing web scraping with Axios
+- Developing modern interfaces with Next.js
+- Practicing TypeScript in React projects
+- Styling with Tailwind CSS
+- Developing search systems
+
+## 🚀 Technologies Used
+
+- **Next.js 14** 
+- **TypeScript**
+- **Tailwind CSS**
+- **Axios**
+
+## ⚙️ Features
+
+- Modern and responsive interface
+- News filtering search system
+- Automatic content updates
+
+## 🛠️ Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/WebScrappingAxios.git
+```
+
+2. Install dependencies:
+```bash
+npm install
+# or
+yarn install
+# or
+pnpm install
+# or
+bun install
+```
+
+3. Start the development server:
 ```bash
 npm run dev
 # or
@@ -14,10 +55,34 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+4. Open `http://localhost:3000` in your browser
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🌐 Project Structure
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```
+WebScrappingAxios/
+├── public/
+├── src/
+├── .gitignore
+├── README.md
+├── eslint.config.mjs
+├── next.config.ts
+├── package.json
+├── postcss.config.mjs
+├── tailwind.config.ts
+└── tsconfig.json
+```
 
-## 
+## 🤝 Contributing
+
+Contributions are always welcome! Feel free to open issues and pull requests.
+
+1. Fork the project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## ⚠️ Legal Notice
+
+This is a study project with no affiliation to Hacker News. All Hacker News rights belong to their respective owners.
