@@ -1,4 +1,4 @@
-# WebScrappingAxios
+# WebScrappingTS
 
 A study project inspired by Hacker News layout, focused on learning web scraping and modern web development.
 
@@ -7,7 +7,7 @@ A study project inspired by Hacker News layout, focused on learning web scraping
 This is an educational project developed for study purposes, using Hacker News layout as inspiration. **Important: This project has no official affiliation with Hacker News and was developed solely for learning and practicing modern web technologies.**
 
 The project serves as a practical exercise for:
-- Implementing web scraping with Axios
+- Implementing web scraping
 - Developing modern interfaces with Next.js
 - Practicing TypeScript in React projects
 - Styling with Tailwind CSS
@@ -18,7 +18,13 @@ The project serves as a practical exercise for:
 - **Next.js 14** 
 - **TypeScript**
 - **Tailwind CSS**
-- **Axios**
+
+# Web Scraping Stack API
+
+Next.js API Routes
+Axios
+Cheerio
+TypeScript Types
 
 ## ⚙️ Features
 
