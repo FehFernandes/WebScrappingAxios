@@ -13,7 +13,7 @@ export default async function handler(
     const $ = cheerio.load(html);
     const newsTitles: { title: string; link: string }[] = [];
 
-    $("span.titleline").each((index, element) => {
+    $("span.titleline").each((index, element  ) => {
       const title = $(element).text().trim();
       const link = $(element).find("a").attr("href") || "";
       newsTitles.push({ title, link });
