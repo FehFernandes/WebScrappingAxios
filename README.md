@@ -19,12 +19,12 @@ The project serves as a practical exercise for:
 - **TypeScript**
 - **Tailwind CSS**
 
-# Web Scraping Stack API
+## Web Scraping Stack API
 
-Next.js API Routes
-Axios
-Cheerio
-TypeScript Types
+Next.js API Routes,
+Axios,
+Cheerio,
+TypeScript Types.
 
 ## ⚙️ Features
 
