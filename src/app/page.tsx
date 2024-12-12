@@ -176,7 +176,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
           <div className="flex justify-between items-center">
             <p className="text-gray-500">
-              © 2024 Powered by{' '}
+               by{' '}
               <a
                 href="https://news.ycombinator.com"
                 target="_blank"
@@ -187,9 +187,9 @@ export default function Home() {
               </a>
 
             </p>
-            <p className="text-gray-500">Built by
+            <p className="text-gray-500">Built by {' '}
             <a
-                href="https://news.ycombinator.com"
+                href="https://www.linkedin.com/in/felipe-fernandessa/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-blue-600 hover:text-blue-800"
