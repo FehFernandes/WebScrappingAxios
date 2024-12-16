@@ -1,5 +1,5 @@
 # WebScrappingTS
-
+https://news.ycombinator.com/
 A study project inspired by Hacker News, focused on learning web scraping and modern web development.
 
 ## 📋 About The Project
