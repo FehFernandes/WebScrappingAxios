@@ -19,7 +19,7 @@ export default async function handler(
       newsTitles.push({ title, link });
     });
 
-    // Filtrar notícias que contêm a palavra "Ubuntu"
+    // Filtrar notícias que contêm a palavra
     const filteredNews = newsTitles.filter((item) => item.title.includes(""));
 
     res.status(200).json({ news: filteredNews.slice(0, 20) });
